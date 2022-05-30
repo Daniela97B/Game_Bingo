@@ -1,6 +1,6 @@
 # Game - Bingo " El gran Buda"
 
-Para la implementacion del bingo Gran Buda, principalmente se ha tratado de manejar el siguiente esquema de la mejor manera posible :
+Esquema :
 ![image](https://user-images.githubusercontent.com/94015994/170914325-0e9dc9ac-9a65-4999-9358-17c321225615.png)
 
 El modo de ingreso al juego es por medio del login. 
