@@ -13,6 +13,7 @@ El modo de ingreso al juego es por medio del login.
 Se inicia el juego con un tiempo, al finalizar dicho tiempo se le asigna al usuario un carton y en pocos segundos empieza a correr la informacion de las bolas del juego.
 Si has ganado, el sistema mostrara el bingo y de que forma gano el usuario.
 
-
+# Encuentra el front del juego en esta ruta:
+https://github.com/Daniela97B/nodeJs-Front
 
 
