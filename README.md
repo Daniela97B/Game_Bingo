@@ -1,16 +1,18 @@
 # Game_Taller_Final
 
+Para la implementacion del bingo Gran Buda, principalmente se ha tratado de manejar el siguiente esquema de la mejor manera posible :
+![image](https://user-images.githubusercontent.com/94015994/170914325-0e9dc9ac-9a65-4999-9358-17c321225615.png)
 
-### Tecnologias Implementadas
-- NodeJS
-- SpringBoot
-- javaScript
-- Html
-- CSS
-- Bootstrap
-- Java
-- MongoBd
-- MySql
+El modo de ingreso al juego es por medio del login. 
+
+# PRUEBAS
+1. Abrir archivo con intellij > crear BD (Archivos cargados en el repositorio).
+   Al iniciar eljuego hay una conexion atraves de fech que conecta nodeJS con Springboot enviando la informacion del usuario que ingresa al sistema hasta MYSQL.
+
+# ¿Como se juega?
+Se inicia el juego con un tiempo, al finalizar dicho tiempo se le asigna al usuario un carton y en pocos segundos empieza a correr la informacion de las bolas del juego.
+Si has ganado, el sistema mostrara el bingo y de que forma gano el usuario.
+
 
 
 
